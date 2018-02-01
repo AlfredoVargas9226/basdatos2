@@ -21,3 +21,5 @@ END;
 /
 
 SELECT * FROM ALMACEN;
+
+--provar el proceso con netbans
